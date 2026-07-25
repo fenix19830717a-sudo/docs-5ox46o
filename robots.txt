@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-y1zw20.indocuan.online/sitemap.xml
